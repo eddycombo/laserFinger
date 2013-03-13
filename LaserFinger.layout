@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="src/ofxCvBlobTracker.cpp" open="1" top="0" tabpos="12">
+		<Cursor position="0" topLine="39" />
+	</File>
+	<File name="src/ofxCvBlobTracker.h" open="1" top="0" tabpos="10">
+		<Cursor position="1188" topLine="24" />
+	</File>
+	<File name="src/ofxCvTrackedBlob.h" open="1" top="0" tabpos="7">
+		<Cursor position="272" topLine="0" />
+	</File>
+	<File name="src/ofxUIButton.h" open="1" top="0" tabpos="3">
+		<Cursor position="4496" topLine="129" />
+	</File>
+	<File name="src/ofxUICanvas.h" open="1" top="0" tabpos="8">
+		<Cursor position="38728" topLine="1265" />
+	</File>
+	<File name="src/ofxUITextInput.h" open="1" top="0" tabpos="11">
+		<Cursor position="0" topLine="37" />
+	</File>
+	<File name="src/pointeur.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src/pointeur.h" open="1" top="0" tabpos="5">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src/positionVote.cpp" open="0" top="0" tabpos="19">
+		<Cursor position="533" topLine="13" />
+	</File>
+	<File name="src/testApp.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="6727" topLine="186" />
+	</File>
+	<File name="src/testApp.h" open="1" top="0" tabpos="2">
+		<Cursor position="974" topLine="0" />
+	</File>
+	<File name="src/utiles.h" open="1" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src/voteFunctions.h" open="1" top="0" tabpos="4">
+		<Cursor position="1192" topLine="13" />
+	</File>
+</CodeBlocks_layout_file>

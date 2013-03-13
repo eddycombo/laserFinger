@@ -1,0 +1,49 @@
+<Widget>
+    <Kind>6</Kind>
+    <Name>CHAN1</Name>
+    <HighValue>255.000000</HighValue>
+    <LowValue>22.000002</LowValue>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>PLAYERS</Name>
+    <Value>2.282353</Value>
+</Widget>
+<Widget>
+    <Kind>6</Kind>
+    <Name>CHAN2</Name>
+    <HighValue>182.000000</HighValue>
+    <LowValue>0.000000</LowValue>
+</Widget>
+<Widget>
+    <Kind>6</Kind>
+    <Name>AREA</Name>
+    <HighValue>1500.000000</HighValue>
+    <LowValue>1.000000</LowValue>
+</Widget>
+<Widget>
+    <Kind>6</Kind>
+    <Name>CHAN3</Name>
+    <HighValue>217.000000</HighValue>
+    <LowValue>100.000008</LowValue>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>GHOST</Name>
+    <Value>2.000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>BLR</Name>
+    <Value>1.000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>DISPL</Name>
+    <Value>2.000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>DILT</Name>
+    <Value>6.000000</Value>
+</Widget>
